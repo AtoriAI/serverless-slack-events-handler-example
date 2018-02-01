@@ -21,7 +21,7 @@
     "express": "^4.16.2",
     "nodemon": "^1.14.7",
     "serverless": "^1.25.0",
-    "serverless-http": "^1.5.2",
+    "serverless-http": "^1.5.3",
     "typescript": "^2.7.1"
   },
   "scripts": {
