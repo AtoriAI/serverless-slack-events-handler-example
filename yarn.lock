@@ -2524,9 +2524,9 @@ serve-static@1.13.1:
     parseurl "~1.3.2"
     send "0.16.1"
 
-serverless-http@^1.5.2:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/serverless-http/-/serverless-http-1.5.2.tgz#efc78498a5cddda7274aa5ff77a33e1acfc901a5"
+serverless-http@^1.5.3:
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/serverless-http/-/serverless-http-1.5.3.tgz#86b695a354a7780715672291cc5c1f5fc6bcff2e"
 
 serverless@^1.25.0:
   version "1.25.0"
