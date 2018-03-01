@@ -22,7 +22,7 @@
     "nodemon": "^1.14.11",
     "serverless": "^1.26.0",
     "serverless-http": "^1.5.3",
-    "typescript": "^2.7.1"
+    "typescript": "^2.7.2"
   },
   "scripts": {
     "start": "tsc -p tsconfig.json && node ./index.js"
