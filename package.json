@@ -22,12 +22,12 @@
     "nodemon": "^1.17.3",
     "serverless": "^1.26.1",
     "serverless-http": "^1.5.5",
-    "typescript": "^2.7.2"
+    "typescript": "^2.8.1"
   },
   "scripts": {
     "start": "tsc -p tsconfig.json && node ./index.js"
   },
   "devDependencies": {
-    "@types/node": "^9.4.6"
+    "@types/node": "^9.6.1"
   }
 }
