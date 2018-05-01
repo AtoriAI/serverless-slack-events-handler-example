@@ -14,9 +14,9 @@
   version "0.10.2"
   resolved "https://registry.yarnpkg.com/@types/graphql/-/graphql-0.10.2.tgz#d7c79acbaa17453b6681c80c34b38fcb10c4c08c"
 
-"@types/node@^9.6.1":
-  version "9.6.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.6.1.tgz#e2d374ef15b315b48e7efc308fa1a7cd51faa06c"
+"@types/node@^10.0.1":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.0.1.tgz#9095e8b9b10d1de6d49a939b2f65c2872a47afd9"
 
 abbrev@1:
   version "1.1.1"
